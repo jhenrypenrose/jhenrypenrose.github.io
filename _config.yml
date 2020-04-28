@@ -1,9 +1,10 @@
 # Site
 name: "Joe Henry-Penrose"
 title: "Joe Henry-Penrose"
-description: "Analytics, Bread, Music, & Photography"
+description: "Joe's Personal Blog
+Analytics, Bread, Music, & Photography"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: ''
 google_analytics: 'UA-113955134-2'
 disqus: ''
@@ -14,10 +15,10 @@ email:
 
 # Authors
 authors:
-  sal:
+  joe:
     name: Joe
     display_name: Joe
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: avatar.png
     email:
     web:
     twitter: https://twitter.com/smoozic
