@@ -1,9 +1,8 @@
 # Site
 name: "Joe Henry-Penrose"
 title: "Joe Henry-Penrose"
-description: "Joe's Personal Blog
-Analytics, Bread, Music, & Photography"
-logo: 'assets/images/logo.png'
+description: "Joe Henry-Penrose | Analytics, Bread, Music, & Photography"
+logo: 'assets/images/home.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
 google_analytics: 'UA-113955134-2'
@@ -24,6 +23,18 @@ authors:
     twitter: https://twitter.com/smoozic
     description: "Author"
 
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: jhenrypenrose
+  instagram: smoozic
+  linkedin: jhenrypenrose
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: smoozic
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Plugins
 plugins:
