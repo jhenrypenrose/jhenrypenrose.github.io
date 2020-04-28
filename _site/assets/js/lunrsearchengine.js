@@ -1,37 +1,37 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "/404.html",
     "title": "404",
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "/about",
     "title": "About Me",
     "body": "I’m an analyst, a music nerd, an avid bread baker living in Raleigh, NC. I’m currently an Assistant Media Planner at McKinney. I focus on numbers-driven insights and the power of stories for brands. ​​​​​​​ I graduated from Elon University in May, 2020 with a degree in Media Analytics and Strategic Communications. Previously, I have served as the General Manager of WSOE 89. 3 FM – Elon Uni’s student-run radio station and as the Creative Director of Live Oak Communications – Elon’s student-run PR and advertising agency. I have interned with Pendo, FleishmanHillard, Wunderman, Valeo and more, working with some of the largest brands in the world. I’ve created analytics presentations for Microsoft and Shell executives, data audits for Selfridges, blog posts for Pendo, and strategic plans for WSOE 89. 3 FM. I have a varied background and a breadth of experience. In my spare time, I explore music data, bake bread, take photos at concerts and festivals, and serve as the Communications Director of Project Hermes, a sensor company helping to democratize ocean temperature reporting through the Cousteau Foundation.  Follow Me on Instagram → Connect with me on LinkedIn → "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/categories",
+    "url": "/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "http://localhost:4000/contact",
+    "url": "/contact",
     "title": "Contact",
     "body": "  Interested in collaborating or connecting? Reach out below and I will reply as soon as possible!   "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/",
+    "url": "/",
     "title": "Home",
     "body": "                                                                                               Temp Post              :       The following post is a temp tester. :                                                                               Joe                 28 Apr 2020                                "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/testing/",
+    "url": "/testing/",
     "title": "Temp Post",
     "body": "2020/04/28 - The following post is a temp tester. "
     }];

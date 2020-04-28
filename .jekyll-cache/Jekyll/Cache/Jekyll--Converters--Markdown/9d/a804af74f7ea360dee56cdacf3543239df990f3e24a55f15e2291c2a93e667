@@ -1,4 +1,4 @@
-I"<!-- Posts Index
+I"<!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
     
@@ -31,7 +31,7 @@
                 
                 <span class="meta-footer-thumb">
                 
-                <img class="author-thumb" src="/avatar.png" alt="Joe" />
+                <img class="author-thumb" src="//images/avatar.png" alt="Joe" />
                 
                 </span>
                 <span class="author-meta">
