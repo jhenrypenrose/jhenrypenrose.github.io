@@ -1,0 +1,59 @@
+I"<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/testing/">
+                
+
+                    
+                        <img class="img-thumb" src="/assets/images/Moogfest_Joe2.jpg" alt="Temp Post" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/testing/">Temp Post</a>
+                
+            </h2>
+            <h4 class="card-text">The following post is a temp tester.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/avatar.png" alt="Joe" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="">Joe</a></span> 
+                
+                <span class="post-date">28 Apr 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET
