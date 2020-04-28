@@ -4,7 +4,7 @@ title: "Joe Henry-Penrose"
 description: "Analytics, Bread, Music, & Photography"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ""
+baseurl: ''
 google_analytics: 'UA-113955134-2'
 disqus: ''
 mailchimp-list: ''
